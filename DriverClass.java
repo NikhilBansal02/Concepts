@@ -7,9 +7,10 @@ public class DriverClass {
 		
 		//SelectionSort.selectionSort(arr);
 		//BubbleSort.bubbleSort(arr);
+		//MergeSort.mergeSort(arr);
 		
 		PrintClass.printArray(arr);
-		MergeSort.mergeSort(arr);
+		InsertionSort.insertionSort(arr);
 		PrintClass.printArray(arr);
 	}
 
